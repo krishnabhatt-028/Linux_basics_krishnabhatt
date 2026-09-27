@@ -27,4 +27,4 @@ internet access. Added the output/explanation for it in the docx anyway.
 
 ## GitHub repo
 
-Link: (add your repo link here before submitting)
+Link: https://github.com/krishnabhatt-028/Linux_basics_krishnabhatt.git
